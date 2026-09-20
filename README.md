@@ -1,5 +1,11 @@
 ![Awesome Kubernetes Management Platforms](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
 # ☸️ Awesome Kubernetes Management Platform Ecosystem
 
 > **A curated, battle-tested list of Enterprise SaaS Products & Open-Source GitHub Projects for Kubernetes Management.**  
@@ -14,6 +20,8 @@
 - [⭐ Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
 - [🛠️ Architectural Ecosystem Guidance](#️-architectural-ecosystem-guidance)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -121,12 +129,28 @@ Contributions are warmly welcomed! Help us keep this directory updated and accur
 
 ---
 
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your platform engineering work, Kubernetes cluster ops, or technical research, please consider:
+- 🌟 **Starring** the repository to help others discover it.
+- 🔀 **Forking** it to keep a local copy or submit contributions.
+- 📢 **Sharing** it with fellow DevOps engineers, SREs, and Platform Architects.
+- ☕ **Sponsoring / Buying a Coffee** via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Kubernetes-Management-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Kubernetes-Management-Platform&type=date&legend=top-left)
+
+---
+
 ## ⚖️ Disclaimer
 
 *This repository is a community-curated directory intended for educational and architectural reference. Product pricing, free tier limits, and company valuations change dynamically; always verify details on official vendor websites.*
 
 ---
 
-<p center>
+<p align="center">
 Made with ❤️ for Platform Engineers, SREs, and Cloud-Native Architects worldwide.
 </p>
