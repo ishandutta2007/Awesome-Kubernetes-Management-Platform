@@ -59,7 +59,7 @@ Below is a detailed comparison of leading enterprise SaaS and managed platforms.
 
 Below is an expanded list of top open-source Kubernetes management tools, engines, dashboards, GitOps operators, and control plane frameworks. 
 
-The list is sorted by **GitHub Stars_Count (Descending)**.
+The list is sorted by **GitHub_Stars_Count (Descending)**.
 
 | 📦 Project Name | ⭐ GitHub_Stars_Badge | 🏷️ Primary Category | 📝 Description & Highlights | ⚖️ License |
 | :--- | :--- | :--- | :--- | :--- |
